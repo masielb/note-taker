@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // Setting up express
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8090;
 
 // Sets up the Express app to handle data parsing and to read static files
 app.use(express.urlencoded({ extended: true }));
