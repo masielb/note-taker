@@ -12,8 +12,8 @@ app.use(express.json());
 //Express will serve static files in public and data directories
 app.use(express.static("public"));
 
-require("./apiRoutes")(app);
-require("./htmlRoutes")(app);
+require("./apiroutes")(app);
+require("./htmlroutes")(app);
 
 
 // Starts the server to begin listening
