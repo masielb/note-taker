@@ -18,7 +18,7 @@ This application is deployed on Heroku.
 HTML, CSS, JavaScript, Express
 
 ## Application Demo
-![application demo](fullvideo.gif)
+![application demo](fullvideo.gifgit)
 
 ## Contact Information
 * Masiel Bautista
